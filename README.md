@@ -1,6 +1,6 @@
 # Running a Proof of Authority Blockchain-
 
-For this project, I took on the role of a new developer at a small bank, where I set up a testnet blockchain for my organization. In doing so, I set up a custom testnet blockchain, sent a test transaction, created a repository and wrote instructions on how to use the chain for the rest of your team.
+For this project, I took on the role of a new developer at a small bank, where I set up a testnet blockchain for my organization. In doing so, I set up a custom testnet blockchain, sent a test transaction, created a repository and wrote instructions on how to use the chain for the rest of my team.
 
 ## Setting the custom out-of-the-box blockchain
 
